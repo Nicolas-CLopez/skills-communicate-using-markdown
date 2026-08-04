@@ -1,3 +1,4 @@
+<h3>
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -8,7 +9,7 @@ using namespace std;
 
 int main(){
 	
-	//-------primer código---------
+	//-------primer cÃ³digo---------
 	float x, z;
 	int y, flag1;
 	double e, fact; 
@@ -108,7 +109,7 @@ do{
 	}
 }while(flag1==1);
 
-//-----segundo código-------
+//-----segundo cÃ³digo-------
 
 	float w;
 	int i, j;
